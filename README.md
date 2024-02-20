@@ -1,6 +1,6 @@
 # Customer Segmentation and Analysis
 
-<img src="[https://feradasfinancas.com/wp-content/uploads/2022/08/2283451-scaled.jpg](https://miro.medium.com/v2/resize:fit:845/1*rFATWK6tWBrDJ1o1rzEZ8w.png)" >
+<img src="https://miro.medium.com/v2/resize:fit:845/1*rFATWK6tWBrDJ1o1rzEZ8w.png" >
 
 ## Background
 A supermarket chain company aims to enhance its understanding of customer behavior and preferences in order to optimize marketing strategies. The company wishes to segment its client base to better asses marketing possibilities.
